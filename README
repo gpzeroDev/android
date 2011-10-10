@@ -1,0 +1,7 @@
+To initialize your local repository using the GeeksPhone Zero trees, use a command like this:
+
+repo init --repo-url=git://git.omapzoom.org/tools/repo.git -u git://github.com/gpzeroDev/android.git -b gingerbread
+
+repo sync
+
+For more information on this Github Organization and how it is structured, please read the wiki article
