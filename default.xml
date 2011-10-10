@@ -7,6 +7,10 @@
   <default revision="gingerbread"
            remote="omap-mirror" />
 
+  <remote  name="github"
+           fetch="git://github.com/"
+           review="review.gpzeroDev.com" />
+
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
