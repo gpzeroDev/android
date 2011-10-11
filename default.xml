@@ -171,8 +171,6 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
-  <project path="tools/tradefederation" name="platform/tools/tradefederation" />
-
   <!-- Modificaiones SR GP0 -->
   <project path="frameworks/base" name="gpzero/android_frameworks_base" remote="github" />
   <project path="external/wpa_supplicant" name="gpzero/android_external_wpa_supplicant" remote="github" />
