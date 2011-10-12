@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="omap-mirror"
+  <!--<remote  name="omap-mirror"
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
 
   <default revision="gingerbread"
-           remote="omap-mirror" />
+           remote="omap-mirror" />-->
+  
+  <remote name="aurora"
+           fetch="git://codeaurora.org/"
+           review="review.source.android.com" />
 
   <remote  name="github"
            fetch="git://github.com/"
            review="review.gpzeroDev.com" />
+  <default revision="gingerbread"
+           remote="aurora" />
 
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
