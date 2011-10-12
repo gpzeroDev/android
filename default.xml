@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!--<remote  name="omap-mirror"
+  <remote  name="omap-mirror"
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
 
-  <default revision="gingerbread"
+  <!--<default revision="gingerbread"
            remote="omap-mirror" />-->
   
   <remote name="aurora"
@@ -107,7 +107,7 @@
   <project path="external/tremolo" name="platform/external/tremolo" />
   <project path="external/v8" name="platform/external/v8" />
   <project path="external/webkit" name="platform/external/webkit" />
-  <project path="external/webp" name="platform/external/webp" revision="master" />
+  <project path="external/webp" name="platform/external/webp" revision="master" remote="omap-mirror"/>
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
