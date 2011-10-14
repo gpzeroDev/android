@@ -111,7 +111,6 @@
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
-  <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" />
@@ -171,15 +170,15 @@
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
   <!-- Modificaiones SR GP0 -->
-  <project path="frameworks/base" name="gpzero/android_frameworks_base" remote="github" />
-  <project path="external/wpa_supplicant" name="gpzero/android_external_wpa_supplicant" remote="github" />
-  <project path="system/core" name="gpzero/android_system_core" remote="github" />
-  <project path="packages/apps/Phone" name="gpzero/android_packages_apps_Phone" remote="github" />
-  <project path="hardware/qcom/media" name="gpzero/android_hardware_qcom_media" remote="github" />
-  <project path="hardware/qcom/gps" name="gpzero/android_hardware_qcom_gps" remote="github" />
-  <project path="hardware/libhardware_legacy" name="gpzero/android_hardware_libhardware_legacy" remote="github" />
-  <project path="hardware/msm7k" name="gpzero/android_hardware_msm7k" remote="github" />
-  <project path="device/geeksphone/zero" name="gpzero/android_device_geeksphone_zero" remote="github" />
-  <project path="vendor/geeksphone/zero" name="gpzero/android_vendor_geeksphone_zero" remote="github" />
-
+  <project path="frameworks/base" name="gpzeroDev/android_frameworks_base" remote="github" />
+  <project path="external/wpa_supplicant" name="gpzeroDev/android_external_wpa_supplicant" remote="github" />
+  <project path="system/core" name="gpzeroDev/android_system_core" remote="github" />
+  <project path="packages/apps/Phone" name="gpzeroDev/android_packages_apps_Phone" remote="github" />
+  <project path="hardware/qcom/media" name="gpzeroDev/android_hardware_qcom_media" remote="github" />
+  <project path="hardware/qcom/gps" name="gpzeroDev/android_hardware_qcom_gps" remote="github" />
+  <project path="hardware/libhardware_legacy" name="gpzeroDev/android_hardware_libhardware_legacy" remote="github" />
+  <project path="hardware/msm7k" name="gpzeroDev/android_hardware_msm7k" remote="github" />
+  <project path="device/geeksphone/zero" name="gpzeroDev/android_device_geeksphone_zero" remote="github" />
+  <project path="vendor/geeksphone/zero" name="gpzeroDev/android_vendor_geeksphone_zero" remote="github" />
+  <project path="hardware/ril" name="gpzeroDev/android_vendor_geeksphone_zero" remote="github" />
 </manifest>
