@@ -180,5 +180,5 @@
   <project path="hardware/msm7k" name="gpzeroDev/android_hardware_msm7k" remote="github" />
   <project path="device/geeksphone/zero" name="gpzeroDev/android_device_geeksphone_zero" remote="github" />
   <project path="vendor/geeksphone/zero" name="gpzeroDev/android_vendor_geeksphone_zero" remote="github" />
-  <project path="hardware/ril" name="gpzeroDev/android_vendor_geeksphone_zero" remote="github" />
+  <project path="hardware/ril" name="gpzeroDev/android_hardware_ril" remote="github" />
 </manifest>
