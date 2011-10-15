@@ -128,7 +128,6 @@
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery3D" name="platform/packages/apps/Gallery3D" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
-  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
@@ -181,4 +180,5 @@
   <project path="device/geeksphone/zero" name="gpzeroDev/android_device_geeksphone_zero" remote="github" />
   <project path="vendor/geeksphone/zero" name="gpzeroDev/android_vendor_geeksphone_zero" remote="github" />
   <project path="hardware/ril" name="gpzeroDev/android_hardware_ril" remote="github" />
+  <project path="packages/apps/Launcher2" name="gpzeroDevandroid_packages_apps_Launcher2" remote="github" />
 </manifest>
