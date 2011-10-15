@@ -3,3 +3,21 @@ To initialize your local repository using the GeeksPhone Zero trees, use a comma
 repo init --repo-url=git://git.omapzoom.org/tools/repo.git -u git://github.com/gpzeroDev/android.git -b gingerbread
 
 repo sync
+
+
+Configure:
+
+choosecombo 1 1 zero 3
+
+
+Compile:
+make `cat /proc/cpuinfo | grep "^processor" | wc -l` "$@" otapackage
+
+
+Squish:
+
+cd vendor/geeksphone/zero/tools
+
+./squisher
+
+If you do this steps, you will have an update.zip file with the ROM!
