@@ -10,7 +10,7 @@ Configure:
 
 Compile:
 
-make `cat /proc/cpuinfo | grep "^processor" | wc -l` "$@" otapackage
+make -j`cat /proc/cpuinfo | grep "^processor" | wc -l` "$@" otapackage
 
 Squish:
 
