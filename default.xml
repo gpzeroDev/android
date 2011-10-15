@@ -180,5 +180,5 @@
   <project path="device/geeksphone/zero" name="gpzeroDev/android_device_geeksphone_zero" remote="github" />
   <project path="vendor/geeksphone/zero" name="gpzeroDev/android_vendor_geeksphone_zero" remote="github" />
   <project path="hardware/ril" name="gpzeroDev/android_hardware_ril" remote="github" />
-  <project path="packages/apps/Launcher2" name="gpzeroDevandroid_packages_apps_Launcher2" remote="github" />
+  <project path="packages/apps/Launcher2" name="gpzeroDev/android_packages_apps_Launcher2" remote="github" />
 </manifest>
