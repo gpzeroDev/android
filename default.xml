@@ -169,7 +169,7 @@
   <!-- Modificaiones SR GP0 -->
   <project path="frameworks/base" name="gpzeroDev/android_frameworks_base" remote="github" />
   <project path="system/core" name="gpzeroDev/android_system_core" remote="github" />
-  <project path="system/extras/su" name="gpzeroDev/android_system_su" remote="github" />
+  <project path="system/extras/su" name="gpzeroDev/android_system_su" remote="github" revision="master" />
   <project path="external/wpa_supplicant" name="gpzeroDev/android_external_wpa_supplicant" remote="github" />
   <project path="hardware/qcom/media" name="gpzeroDev/android_hardware_qcom_media" remote="github" />
   <project path="hardware/qcom/gps" name="gpzeroDev/android_hardware_qcom_gps" remote="github" />
