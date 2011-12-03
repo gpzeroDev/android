@@ -142,24 +142,18 @@
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" />
-  <project path="packages/apps/AndroidTerm" name="CyanogenMod/android_packages_apps_AndroidTerm" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
   <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMParts" name="CyanogenMod/android_packages_apps_CMParts" />
-  <project path="packages/apps/CMScreenshot" name="CyanogenMod/android_packages_apps_CMScreenshot" />
-  <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/DockAudio" name="CyanogenMod/android_packages_apps_DockAudio" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
-  <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" />
   <project path="packages/apps/Gallery3D" name="CyanogenMod/android_packages_apps_Gallery3D" />
-  <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/Launcher2" name="CyanogenMod/android_packages_apps_Launcher2" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
