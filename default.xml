@@ -157,7 +157,6 @@
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Usb" name="CyanogenMod/android_packages_apps_Usb" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
-  <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
@@ -171,7 +170,6 @@
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
   <project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
-  <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="sdk" name="CyanogenMod/android_sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project path="system/core" name="CyanogenMod/android_system_core" />
@@ -189,6 +187,8 @@
   <project path="packages/apps/Launcher2" name="gpzeroDev/android_packages_apps_Launcher2" />
   <project path="packages/apps/Settings" name="gpzeroDev/android_packages_apps_Settings" />
   <project path="packages/apps/Camera" name="gpzeroDev/android_packages_apps_Camera" />
+  <project path="packages/apps/FM" name="gpzeroDev/android_packages_apps_FM" />
+  <project path="prebuilt" name="gpzeroDev/android_prebuilt" revision="gingerbread" />
   <project path="device/geeksphone/zero" name="gpzeroDev/android_device_geeksphone_zero" />
   <project path="vendor/geeksphone/zero" name="gpzeroDev/android_vendor_geeksphone_zero" />
 </manifest>
