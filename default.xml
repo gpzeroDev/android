@@ -188,6 +188,7 @@
   <project path="packages/apps/Settings" name="gpzeroDev/android_packages_apps_Settings" />
   <project path="packages/apps/Camera" name="gpzeroDev/android_packages_apps_Camera" />
   <project path="packages/apps/FM" name="gpzeroDev/android_packages_apps_FM" />
+  <project path="packages/apps/CMParts" name="gpzeroDev/android_packages_apps_CMParts" />
   <project path="prebuilt" name="gpzeroDev/android_prebuilt" revision="gingerbread" />
   <project path="device/geeksphone/zero" name="gpzeroDev/android_device_geeksphone_zero" />
   <project path="vendor/geeksphone/zero" name="gpzeroDev/android_vendor_geeksphone_zero" />
